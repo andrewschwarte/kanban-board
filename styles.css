@@ -1,0 +1,6 @@
+.box {
+  border: solid rgb(0, 0, 0) 2px;
+  padding: 10px;
+  margin: 25% 25%;
+  /* transform: rotate(180deg); */
+}
